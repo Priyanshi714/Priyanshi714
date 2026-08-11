@@ -1,7 +1,16 @@
 ## Hi there 👋
 
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Priyanshi Gupta** — a Computer Science & Business Systems graduate passionate about building practical, scalable, and AI-powered software solutions.<br><br>💻 I enjoy working across the **full stack**, from crafting responsive interfaces to designing REST APIs and backend systems.<br><br>🛠️ My core tech stack includes **Java, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and Tailwind CSS**.<br><br>🤖 I'm particularly interested in combining **AI with real-world applications**, having worked on projects involving AI-powered resume analysis and real-time meeting assistance.<br><br>🧠 I have a strong foundation in **DSA, OOP, problem-solving, and RESTful API development**.<br><br>🚀 Some of the projects I've worked on include:<br>- **LearnNova** — A personal DSA learning and revision platform<br>- **NoSightBox** — An accessible, voice-guided email interaction system<br>- **AI Meeting Assistant** — A real-time meeting assistant with speech-to-text, AI summaries, and task extraction<br>- **AI Resume Analyzer** — An AI-powered resume analysis system<br><br>🌱 Currently exploring better ways to build **intelligent, accessible, and user-focused applications**.<br><br>📫 Feel free to explore my repositories and connect with me!
+## 👋 About Me<br><br>Hi, Hi, I'm **Priyanshi Gupta**, a Computer Science & Business Systems graduate passionate about building practical, scalable, and AI-powered software solutions.
+
+💻 I enjoy working across the **full stack**, from building responsive interfaces to developing REST APIs and backend systems.
+
+🛠️ My core tech stack includes **Java, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and Tailwind CSS**.
+
+🤖 I'm particularly interested in **AI-powered applications**, having worked on projects involving AI-driven resume analysis and real-time meeting assistance.
+
+🧠 I have a strong foundation in **DSA, OOP, problem-solving, and RESTful API development**.
+
 
 
 ## 🌐 Socials:
