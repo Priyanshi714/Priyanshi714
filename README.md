@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, Hi, I'm **Priyanshi Gupta**, a Computer Science & Business Systems graduate passionate about building practical, scalable, and AI-powered software solutions.
+## 👋 About Me<br><br>,
+
+Hi, I'm **Priyanshi Gupta**, a Computer Science & Business Systems graduate passionate about building practical, scalable, and AI-powered software solutions.
 
 💻 I enjoy working across the **full stack**, from building responsive interfaces to developing REST APIs and backend systems.
 
