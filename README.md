@@ -4,13 +4,13 @@
 
 Hi, I'm **Priyanshi Gupta**, a Computer Science & Business Systems graduate passionate about building practical, scalable, and AI-powered software solutions.
 
-💻 I enjoy working across the **full stack**, from building responsive interfaces to developing REST APIs and backend systems.
+ I enjoy working across the **full stack**, from building responsive interfaces to developing REST APIs and backend systems.
 
-🛠️ My core tech stack includes **Java, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and Tailwind CSS**.
+ My core tech stack includes **Java, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and Tailwind CSS**.
 
-🤖 I'm particularly interested in **AI-powered applications**, having worked on projects involving AI-driven resume analysis and real-time meeting assistance.
+ I'm particularly interested in **AI-powered applications**, having worked on projects involving AI-driven resume analysis and real-time meeting assistance.
 
-🧠 I have a strong foundation in **DSA, OOP, problem-solving, and RESTful API development**.
+ I have a strong foundation in **DSA, OOP, problem-solving, and RESTful API development**.
 
 
 
